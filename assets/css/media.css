@@ -1,0 +1,287 @@
+@media (max-width:2560px) and (min-width:1441px) {
+ .navbar .btn{
+    display: none;
+  }
+ 
+ .card .btn{
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.903);
+ }
+}
+@media (max-width:1440px) and (min-width:1201px) {
+ .navbar .btn{
+    display: none;
+  }
+  .card .btn{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.903);
+   }
+}
+@media (max-width:1200px) and (min-width:1025px) {
+  
+}
+@media (max-width:1024px) and (min-width:997px) {
+ .navbar .btn{
+    display: none;
+  }
+  .card .btn{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.903);
+   }
+  h1 ,h2 {
+    font-size: 25px !important;
+  }
+  .sopuriorcar .row .col-lg-4 .contain img{
+    width: 300px;
+  }
+  .sopuriorcar .row .col-lg-4 .contain .item{
+    width: 280px;
+  }
+  .why-choseus .row .col-lg-6 .contain .image0{
+    width: 450px;
+  }
+  .why-choseus .row .col-lg-6 .contain .image1,
+  
+.why-choseus .row .col-lg-6 .contain .image2{
+    left: -30;
+  }
+  .testmonins .row .col-lg-6 .contain{
+    width: 480px;
+  }
+  .testmonins .row .col-lg-6 .image img,
+  .anything-ask .row .col-lg-6 .contain2 .item3 iframe {
+    width: 100%;
+    
+  }
+  .testmonins .row .col-lg-6 .image{
+    height: 356px;
+  }
+  .card .btn{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.903);
+   }
+}
+@media (max-width:996px) and (min-width:769px) {
+  
+}
+@media (max-width:768px) and (min-width:577px) {
+   .navbar-nav,.navbar .social{
+    display: none;
+   }
+   
+   
+   .testmonins .heading .div1,
+   .sopuriorcar .heading,
+   .anything-ask .row .all .contain{
+    flex-direction: column;
+   }
+   .who-we-are .row .col-lg-6 .item1 .button{
+    margin-right: 320px;
+   }
+   .sopuriorcar .heading .delivering .h1 .one,
+   .sopuriorcar .heading .delivering .h1 .two,
+   .sopuriorcar .heading .delivering .h1 .three{
+    font-size: 25px !important;
+    text-align: center;
+   }
+   h1,h2 {
+    font-size: 35px !important;
+    
+   }
+   
+   .sopuriorcar .heading .par p{
+    width: 100%;
+    text-align: center;
+   }
+   .sopuriorcar .row .col-lg-4 .contain .item {
+  
+    width: 270px;}
+    
+    .why-choseus .row .col-lg-6 .contain .image1{
+      left: -10; 
+    }
+    .why-choseus .row .col-lg-6 .contain .image1 img,
+    .why-choseus .row .col-lg-6 .contain .image2 img{
+      width: 250px;
+      height: 250px;
+    }
+    .why-choseus .row .col-lg-6 .contain .image2{
+      bottom: 20;
+      left: -10;
+    }
+    .why-choseus .row .col-lg-6 .contain2 .par1,
+    .why-choseus .row .col-lg-6 .contain2 .h1,
+    .why-choseus .row .col-lg-6 .contain2 .h2,
+    .why-choseus .row .col-lg-6 .contain2 .par2,
+    .why-choseus .row .col-lg-6 .contain2 .content .h3,
+    .why-choseus .row .col-lg-6 .contain2 .content .par3{
+      text-align: center;
+    }
+    .testmonins .row .col-lg-6 .image img,
+    .use .contain,
+    .anything-ask .row .col-lg-6 .contain2 .item3 iframe,
+    .header .contain,
+    .testmonins .row .col-lg-6 .contain,.who-we-are .row .col-lg-6 .content,
+    .who-we-are .row .col-lg-6 .content .item2,
+    .who-we-are .row .col-lg-6 .content .item2 .name textarea,
+    .why-choseus .row .col-lg-6 .contain .image0{
+      width: 100%;
+    }
+    .anything-ask .row .all .contain .item2{
+      margin-left: 0px;
+    }
+    .anything-ask .row .col-lg-6 .contain2 .content .item2 {
+      margin-right: 80px;
+    }
+    .header{
+      height: 900px;
+    }
+    .header .contain2 .div1
+    ,.header .contain2 .div2,
+    .sopuriorcar .row .col-lg-4 .contain img{
+      width: 100%;
+      margin-left: 40px;
+    }
+    .sopuriorcar .row .col-lg-4 .contain img{
+      margin: 0px;
+    }
+     .testmonins .row .col-lg-6 .contain .par1{
+      width: 100%;
+      margin-right: 0px;
+    }
+    .who-we-are .row .col-lg-6 .item1 .par2{
+      width: 50%;
+      margin-right: 300px;
+    }
+    .testmonins .row .col-lg-6 .contain .content{
+      margin-left: 30px;
+    }
+    .who-we-are .row .col-lg-6 .item1 .par2{
+      font-size: 20px;
+    }
+    .testmonins .row .col-lg-6 .image img{
+      object-position: top;
+    }
+    .card .btn{
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.903);
+     }
+}
+@media (max-width:576px) and (min-width:426px) {
+  
+}
+@media (max-width:425px) and (min-width:376px) {
+  
+}
+@media (max-width:375px) and (min-width:321px) {
+  
+ 
+}
+@media (max-width:320px) {
+ .navbar-nav ,.navbar .social{
+  display: none;
+ }
+ .btn{
+  margin-right: 300px;
+ }
+ .navbar-nav{
+  margin-right: 250px;
+  width: 50%;
+ }
+ .card .btn{
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.903);
+ }
+ .who-we-are .row .col-lg-6 .content,
+ .any-emergency .row .col-lg-6 .contain,
+ .testmonins .heading .div1,
+ .sopuriorcar .heading,
+ .anything-ask .row .all .contain,
+ .anything-ask .row .col-lg-6 .contain2 .content,
+ .header .contain2{
+  flex-direction: column;
+ }
+ .who-we-are .row .col-lg-6 .item1 .button{
+  margin-right: 320px;
+ }
+ .sopuriorcar .heading .delivering .h1 .one{
+  font-size: 15px;
+ }
+ .sopuriorcar .heading .delivering .h1 .two {
+  font-size: 15px;
+ }
+ .sopuriorcar .heading .delivering .h1 .three {
+  font-size: 9px;
+ }
+ h1,h2 {
+  font-size: 20px !important;
+ }
+ .sopuriorcar .heading .par p{
+  width: 100%;
+  text-align: center;
+ }
+ .sopuriorcar .row .col-lg-4 .contain .item {
+
+  width: 270px;}
+  .why-choseus .row .col-lg-6 .contain .image0{
+    width: 300px;
+    height: 300px;
+  }
+  .why-choseus .row .col-lg-6 .contain .image1{
+    left: -10; 
+  }
+  .why-choseus .row .col-lg-6 .contain .image1 img,
+  .why-choseus .row .col-lg-6 .contain .image2 img{
+    width: 150px;
+    height: 150px;
+  }
+  .why-choseus .row .col-lg-6 .contain .image2{
+    bottom: 30;
+    left: -10;
+  }
+  .why-choseus .row .col-lg-6 .contain2 .par1,
+  .why-choseus .row .col-lg-6 .contain2 .h1,
+  .why-choseus .row .col-lg-6 .contain2 .h2,
+  .why-choseus .row .col-lg-6 .contain2 .par2,
+  .why-choseus .row .col-lg-6 .contain2 .content .h3,
+  .why-choseus .row .col-lg-6 .contain2 .content .par3{
+    text-align: center;
+  }
+  .testmonins .row .col-lg-6 .image img,
+  .use .contain,
+  .anything-ask .row .col-lg-6 .contain2 .item3 iframe,
+  .header .contain,
+  .testmonins .row .col-lg-6 .contain,
+  .card-header{
+    width: 100%;
+  }
+  .anything-ask .row .all .contain .item2{
+    margin-left: 0px;
+  }
+  .anything-ask .row .col-lg-6 .contain2 .content .item2 {
+    margin-right: 80px;
+  }
+  .header{
+    height: 1350px;
+  }
+  .header .contain2 .div1
+  ,.header .contain2 .div2,
+  .sopuriorcar .row .col-lg-4 .contain img{
+    width: 100%;
+    margin-left: 40px;
+  }
+  .sopuriorcar .row .col-lg-4 .contain img{
+    margin: 0px;
+  }
+   .testmonins .row .col-lg-6 .contain .par1{
+    width: 100%;
+    margin-right: 0px;
+  }
+  .who-we-are .row .col-lg-6 .item1 .par2{
+    width: 50%;
+    margin-right: 300px;
+  }
+  .testmonins .row .col-lg-6 .contain .content{
+    margin-left: 30px;
+  }
+}
